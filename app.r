@@ -3,9 +3,6 @@
 library(shiny)
 library(shinyjs)
 library(dplyr)
-library(haven)
-# library(tidyr)
-# library(ggplot2)
 
 source("merge.r")
 
