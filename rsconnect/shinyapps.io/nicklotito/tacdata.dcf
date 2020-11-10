@@ -5,8 +5,8 @@ account: nicklotito
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2956732
-bundleId: 3731532
+bundleId: 3843213
 url: https://nicklotito.shinyapps.io/tacdata/
-when: 1602532886.33648
+when: 1605020899.72619
 asMultiple: FALSE
 asStatic: FALSE
